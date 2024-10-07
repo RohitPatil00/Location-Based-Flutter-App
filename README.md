@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 ## Setup
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/location_map_app.git
+   git clone [https://github.com/yourusername/location_map_app.git](https://github.com/RohitPatil00/Location-Based-Flutter-App/tree/main)
    cd location_map_app
 
 2. Install dependencies:
